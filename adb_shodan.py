@@ -1,5 +1,5 @@
 import shodan
-SHODAN_API_KEY = "4bF2lt7WUeOglKTacEiTdUTq3yAyRNdU"
+SHODAN_API_KEY = "your_key"
 api = shodan.Shodan(SHODAN_API_KEY)
 try:
 # Search Shodan
